@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Physics vector model calculating projectile trajectories.
+  name: physics-kinematics-sim version: 1.0 type: Repository author: VarshuAi description: >   Physics vector model calculating projectile trajectories. primary_tech: CSS
 primary_tech: CSS
 ```
 
